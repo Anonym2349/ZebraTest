@@ -1,0 +1,197 @@
+[2024-10-08 01:50:43] - STATUS - Checking for updates...
+[2024-10-08 01:51:00] - STATUS - UPDATE IN PROGRESS. PLEASE DO NOT CLOSE THIS WINDOW!
+[2024-10-08 01:51:00] - INFO - This process may take several minutes depending on your computer and network speeds...
+[2024-10-08 01:51:00] - INFO - Once the update is complete, DogWifTools will automatically launch.
+[2024-10-08 01:51:01] - STATUS - Update v1.5.3 Available... Downloading
+[2024-10-08 01:51:01] - STATUS - Downloading [1/2]
+[2024-10-08 01:53:35] - UPDATE - Downloaded [1/2]
+[2024-10-08 01:53:35] - STATUS - Downloading [2/2]
+[2024-10-08 01:53:39] - UPDATE - Downloaded [2/2]
+[2024-10-08 01:53:44] - SUCCESS - Update Finished...
+[2024-10-08 01:53:44] - STATUS - Starting DogWifTools, please wait...
+[2024-10-08 01:53:48] - STATUS - Checking for updates...
+[2024-10-08 01:53:48] - UPDATE - Update for version 1.5.3
+ not available, latest version 1.5.3
+[2024-10-08 01:53:48] - SUCCESS - WebView2 runtime is installed at: C:\Program Files (x86)\Microsoft\EdgeWebView\Application
+[2024-10-08 01:53:48] - STATUS - Checking license...
+[2024-10-08 01:54:04] - STATUS - Checking license...
+[2024-10-08 01:54:09] - STATUS - Checking license...
+[2024-10-08 01:54:09] - UPDATE - Authorized...
+[2024-10-08 01:54:09] - SUCCESS - Initialization Complete...
+[2024-10-08 01:54:34] - SUCCESS - log file copied to: C:\Users\Dominik\Desktop\app.log
+[2024-10-08 02:02:17] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'genWalletBundler', '2']
+[2024-10-08 02:02:26] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'genWalletBundler', '2']
+[2024-10-08 02:12:36] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'genWalletBundler', '2']
+[2024-10-08 02:13:29] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'genWalletBundler', '2']
+[2024-10-08 02:14:49] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'genWalletBundler', '2']
+[2024-10-08 02:15:48] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBundlerWallets', '0,01']
+[2024-10-08 02:15:59] - ERROR - Failed to fetch balances: User does not have an rpc added
+[2024-10-08 02:16:04] - ERROR - Failed to fetch balances: User does not have an rpc added
+[2024-10-08 02:18:24] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBundlerWallets', '0,01']
+[2024-10-08 02:18:39] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpProfilesBundler']
+[2024-10-08 02:23:54] - SUCCESS - Fetched Token Data
+[2024-10-08 02:23:54] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect'}
+[2024-10-08 02:24:00] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["hey"]']
+[2024-10-08 02:24:28] - SUCCESS - Fetched Token Data
+[2024-10-08 02:24:28] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'comments': ['hey']}
+[2024-10-08 02:24:30] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["comment"]']
+[2024-10-08 02:30:27] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["comment"]']
+[2024-10-08 02:30:41] - SUCCESS - Fetched Token Data
+[2024-10-08 02:30:41] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'comments': ['comment']}
+[2024-10-08 02:30:43] - SUCCESS - Fetched Token Data
+[2024-10-08 02:30:43] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'comments': ['test']}
+[2024-10-08 02:30:44] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test"]']
+[2024-10-08 02:30:58] - SUCCESS - Fetched Token Data
+[2024-10-08 02:30:58] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'comments': ['test']}
+[2024-10-08 02:30:59] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test"]']
+[2024-10-08 02:31:00] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test"]']
+[2024-10-08 02:31:19] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test"]']
+[2024-10-08 02:31:20] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test"]']
+[2024-10-08 02:31:21] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test"]']
+[2024-10-08 02:31:21] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test"]']
+[2024-10-08 02:31:21] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test"]']
+[2024-10-08 02:31:22] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test"]']
+[2024-10-08 02:31:22] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test"]']
+[2024-10-08 02:34:56] - ERROR - Primary RPC failed, switching to backup RPC: 
+[2024-10-08 02:35:12] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBundlerWallets', '0.01']
+[2024-10-08 02:36:34] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBundlerWallets', '0.01']
+[2024-10-08 02:38:07] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBundlerWallets', '0.001']
+[2024-10-08 02:38:17] - ERROR - Primary RPC failed, switching to backup RPC: 
+[2024-10-08 02:39:03] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBundlerWallets', '0.001']
+[2024-10-08 02:45:16] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpProfilesBundler']
+[2024-10-08 02:45:30] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'genWalletBundler', '3']
+[2024-10-08 02:45:46] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBundlerWallets', '0.001']
+[2024-10-08 03:02:36] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBundlerWallets', '0.001']
+[2024-10-08 03:27:20] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test", "test"]']
+[2024-10-08 03:27:48] - SUCCESS - Fetched Token Data
+[2024-10-08 03:27:48] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'comments': ['test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test']}
+[2024-10-08 03:27:50] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["hey"]']
+[2024-10-08 03:28:09] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["hey"]']
+[2024-10-08 03:28:14] - SUCCESS - Fetched Token Data
+[2024-10-08 03:28:14] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'comments': ['hey']}
+[2024-10-08 03:28:14] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["hey"]']
+[2024-10-08 03:30:16] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'dumpAll']
+[2024-10-08 03:31:57] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'humanModeJito']
+[2024-10-08 03:33:21] - SUCCESS - Fetched Token Data
+[2024-10-08 03:33:21] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect'}
+[2024-10-08 03:33:33] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'humanModeJito', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0,0001', '0,0001', '0,0001', '0,0001', '200', '300']
+[2024-10-08 03:35:03] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'humanModeJito', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0,0001', '0,0001', '0,0001', '0,0001', '200', '300']
+[2024-10-08 03:42:11] - SUCCESS - Fetched Token Data
+[2024-10-08 03:42:11] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect'}
+[2024-10-08 03:42:13] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["hey", "its good", "perfcet", "really good"]']
+[2024-10-08 03:44:10] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpProfilesBundler']
+[2024-10-08 03:45:09] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'closeTokenAccounts']
+[2024-10-08 03:45:22] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpProfiles']
+[2024-10-08 03:45:39] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'genWalletBumpIt', '3']
+[2024-10-08 03:46:19] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBumpItWallets', '0,0022']
+[2024-10-08 03:48:40] - SUCCESS - Fetched Token Data
+[2024-10-08 03:48:40] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect'}
+[2024-10-08 03:48:44] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'spamBumpIt', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0,000001', '200', '0']
+[2024-10-08 03:50:55] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBumpItWallets', '0,0040']
+[2024-10-08 03:51:30] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBumpItWallets', '0,010']
+[2024-10-08 03:52:40] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBumpItWallets', '0.01']
+[2024-10-08 03:53:12] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBumpItWallets', '0.020']
+[2024-10-08 03:54:30] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBumpItWallets', '0.0020']
+[2024-10-08 03:55:04] - SUCCESS - Fetched Token Data
+[2024-10-08 03:55:04] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'buyAmount': '0,000001', 'delay': '200', 'walletIndex': 0}
+[2024-10-08 03:55:06] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'spamBumpIt', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0,000001', '200', '0']
+[2024-10-08 03:55:15] - SUCCESS - Fetched Token Data
+[2024-10-08 03:55:15] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'buyAmount': '0,000001', 'delay': '200', 'walletIndex': 0}
+[2024-10-08 03:55:18] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'spamBumpIt', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0,0001', '200', '0']
+[2024-10-08 03:55:43] - SUCCESS - Fetched Token Data
+[2024-10-08 03:55:43] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'buyAmount': '0,0001', 'delay': '200', 'walletIndex': 0}
+[2024-10-08 03:55:55] - SUCCESS - Fetched Token Data
+[2024-10-08 03:55:55] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'buyAmount': '0,001', 'delay': '200', 'walletIndex': 0}
+[2024-10-08 03:55:57] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'spamBumpIt', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0,001', '200', '0']
+[2024-10-08 03:56:15] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'spamBumpIt', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0,001', '200', '0']
+[2024-10-08 03:56:23] - SUCCESS - Fetched Token Data
+[2024-10-08 03:56:23] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'buyAmount': '0,001', 'delay': '200', 'walletIndex': 0}
+[2024-10-08 03:56:25] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'spamBumpIt', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0.00001', '200', '0']
+[2024-10-08 03:57:00] - SUCCESS - Fetched Token Data
+[2024-10-08 03:57:00] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'buyAmount': '0.00001', 'delay': '200', 'walletIndex': 0}
+[2024-10-08 03:57:01] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'spamBumpIt', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0.001', '200', '0']
+[2024-10-08 03:57:22] - SUCCESS - Fetched Token Data
+[2024-10-08 03:57:22] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'comments': ['hey', 'its good', 'perfcet', 'really good']}
+[2024-10-08 03:57:24] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["hey", "its good", "perfcet", "really good"]']
+[2024-10-08 05:27:31] - STATUS - Checking for updates...
+[2024-10-08 05:27:31] - UPDATE - Update for version 1.5.3
+ not available, latest version 1.5.3
+[2024-10-08 05:27:31] - SUCCESS - WebView2 runtime is installed at: C:\Program Files (x86)\Microsoft\EdgeWebView\Application
+[2024-10-08 05:27:31] - STATUS - Checking license...
+[2024-10-08 05:27:32] - UPDATE - Authorized...
+[2024-10-08 05:27:32] - SUCCESS - Initialization Complete...
+[2024-10-08 05:29:40] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["hey", "its good", "perfcet", "really good"]']
+[2024-10-08 05:31:10] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["hey", "its good", "perfcet", "really good"]']
+[2024-10-08 05:32:24] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["hey", "its good", "perfcet", "really good"]']
+[2024-10-08 05:33:06] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 05:34:29] - SUCCESS - Imported Image
+[2024-10-08 05:34:38] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 05:36:36] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 05:36:52] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 05:38:32] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'devSell', '100']
+[2024-10-08 05:39:07] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'devSell', '100']
+[2024-10-08 05:40:57] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'devSell', '100']
+[2024-10-08 05:42:18] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 05:43:13] - SUCCESS - Imported Image
+[2024-10-08 05:43:26] - SUCCESS - Imported Image
+[2024-10-08 05:43:51] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 05:44:18] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 05:46:41] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'devSell', '100']
+[2024-10-08 05:50:07] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 05:50:20] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 05:52:42] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 05:52:52] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 05:53:23] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpProfilesBundler']
+[2024-10-08 05:56:56] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundlerRaydium']
+[2024-10-08 05:57:06] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendSPL']
+[2024-10-08 05:57:12] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 05:57:28] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 05:58:30] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'dumpAllPct', '100', 'None']
+[2024-10-08 06:02:47] - SUCCESS - Fetched Token Data
+[2024-10-08 06:02:47] - SUCCESS - Saved: {'name': '$NegroHippo', 'ticker': 'Niggeross', 'image': 'https://ipfs.io/ipfs/QmYK2kJ1qQDWBXP2vQno7GwnBmdCJvENTkqxUtCnCUfWE8?img-width=256&img-dpr=2&img-onerror=redirect', 'token': 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', 'minBuy': '0,0001', 'maxBuy': '0,0001', 'buyCount': '0,0001', 'sellCount': '0,0001', 'minDelay': '200', 'maxDelay': '300'}
+[2024-10-08 06:02:55] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'humanModeJito', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0,0001', '0,0001', '0,0001', '0,0001', '200', '300']
+[2024-10-08 06:03:30] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'spamBumpIt', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '0.001', '200', '0']
+[2024-10-08 06:05:28] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 06:05:35] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 06:07:09] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 06:07:26] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 06:11:28] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 06:11:50] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 06:13:16] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'genWalletBundler', '2']
+[2024-10-08 06:13:27] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBundlerWallets', '0.10']
+[2024-10-08 06:14:17] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'sendToBundlerWallets', '0.10']
+[2024-10-08 06:15:50] - SUCCESS - Imported Image
+[2024-10-08 06:15:55] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 06:16:18] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 06:17:55] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 06:18:19] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 06:18:47] - STATUS - Executing Bundler Sell Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createALTBundler']
+[2024-10-08 06:18:55] - STATUS - Executing Bundler Launch: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createPumpBundler']
+[2024-10-08 06:19:13] - STATUS - Executing Wallet Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'returnToMainWalletBundler']
+[2024-10-08 13:17:19] - STATUS - Checking for updates...
+[2024-10-08 13:17:19] - UPDATE - Update for version 1.5.3
+ not available, latest version 1.5.3
+[2024-10-08 13:17:19] - SUCCESS - WebView2 runtime is installed at: C:\Program Files (x86)\Microsoft\EdgeWebView\Application
+[2024-10-08 13:17:19] - STATUS - Checking for updates...
+[2024-10-08 13:17:19] - UPDATE - Update for version 1.5.3
+ not available, latest version 1.5.3
+[2024-10-08 13:17:19] - SUCCESS - WebView2 runtime is installed at: C:\Program Files (x86)\Microsoft\EdgeWebView\Application
+[2024-10-08 13:17:20] - STATUS - Checking license...
+[2024-10-08 13:17:20] - STATUS - Checking license...
+[2024-10-08 13:17:20] - UPDATE - Authorized...
+[2024-10-08 13:17:20] - SUCCESS - Initialization Complete...
+[2024-10-08 13:18:41] - STATUS - Checking for updates...
+[2024-10-08 13:18:41] - UPDATE - Update for version 1.5.3
+ not available, latest version 1.5.3
+[2024-10-08 13:18:41] - SUCCESS - WebView2 runtime is installed at: C:\Program Files (x86)\Microsoft\EdgeWebView\Application
+[2024-10-08 13:18:41] - STATUS - Checking license...
+[2024-10-08 13:18:42] - UPDATE - Authorized...
+[2024-10-08 13:18:42] - SUCCESS - Initialization Complete...
+[2024-10-08 13:20:11] - STATUS - Checking for updates...
+[2024-10-08 13:20:11] - UPDATE - Update for version 1.5.3
+ not available, latest version 1.5.3
+[2024-10-08 13:20:11] - SUCCESS - WebView2 runtime is installed at: C:\Program Files (x86)\Microsoft\EdgeWebView\Application
+[2024-10-08 13:20:11] - STATUS - Checking license...
+[2024-10-08 13:20:12] - UPDATE - Authorized...
+[2024-10-08 13:20:12] - SUCCESS - Initialization Complete...
+[2024-10-08 13:28:54] - STATUS - Executing Task Command: ['C:\\Users\\Dominik\\AppData\\Roaming\\DogWifTools\\main\\build.exe', 'createAccountComment', 'CewUYfJBVN6EoKvNDVZdoXJZ1HAqNTRgW5VVS6iapump', '["hey", "its good", "perfcet", "really good"]']
